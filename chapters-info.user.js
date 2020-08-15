@@ -46,17 +46,14 @@
                 }
 
                 if (torrentInfoRow.classList.contains('hidden')) {
-                    console.log('It\'s hidden! Remove elements');
                     const chaptersRow = mediaInfoTable.querySelector('.tr-chapters');
                     chaptersRow.remove();
                 } else {
-                    console.log('Append elements now');
                     const keyword = /Menu/gi;
                     if (mediaInfoData.textContent.match(keyword)) {
                         td2.textContent = 'Yes'
                         appendRow();
                     } else {
-                        console.log('Chapters: No');
                         td2.textContent = 'No'
                         appendRow();
                     }
