@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Add chapter information to the MediaInfo preview
 // @author       PuNkFuSe
-// @updateURL    https://raw.githubusercontent.com/datFunc/ptp-scripts/master/chapters-info.js
-// @downloadURL  https://raw.githubusercontent.com/datFunc/ptp-scripts/master/chapters-info.js
+// @updateURL    https://raw.githubusercontent.com/datFunc/ptp-scripts/master/chapters-info.user.js
+// @downloadURL  https://raw.githubusercontent.com/datFunc/ptp-scripts/master/chapters-info.user.js
 // @match        http*://passthepopcorn.me/torrents.php*
 // ==/UserScript==
 
