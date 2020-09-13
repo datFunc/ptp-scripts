@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  List scene releases on torrent pages.
 // @author       PuNkFuSe
-// @updateURL    https://raw.githubusercontent.com/datFunc/ptp-scripts/master/sc_rls_lister-min.user.js
-// @downloadURL  https://raw.githubusercontent.com/datFunc/ptp-scripts/master/sc_rls_lister-min.user.js
+// @updateURL    https://github.com/datFunc/ptp-scripts/raw/master/sc_rls_lister.user.js
+// @downloadURL  https://github.com/datFunc/ptp-scripts/raw/master/sc_rls_lister.user.js
 // @grant        GM_xmlhttpRequest
 // @match        http*://passthepopcorn.me/torrents.php?id=*
 // @icon         https://rawcdn.githack.com/datFunc/ptp-scripts/master/icons/list.svg
